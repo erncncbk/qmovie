@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "movieapp",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=movieApiKey=b2da8524c4f8c9331830750755a373ed"
+            ],
+        }
+    ]
+}
